@@ -2,7 +2,7 @@
 
 **Document Version:** 1.0  
 **Project Name:** ParaBank Web Application QA Validation  
-**Prepared By:** QA Test Engineer  
+**Prepared By:** Mubina Bhadgaon 
 **Application URL:** `https://parabank.parasoft.com/parabank/index.htm`  
 
 ---
